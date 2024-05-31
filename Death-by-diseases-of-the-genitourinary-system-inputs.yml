@@ -1,0 +1,291 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-prolapse---secondary.py
+inputModule3:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-immune---secondary.py
+inputModule4:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-unspec---secondary.py
+inputModule5:
+  class: File
+  path: python/mesangial-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule6:
+  class: File
+  path: python/concentric-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule7:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-contracted---secondary.py
+inputModule8:
+  class: File
+  path: python/membranous-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule9:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-subacute---secondary.py
+inputModule10:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-urethritis---secondary.py
+inputModule11:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-assoc---secondary.py
+inputModule12:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-state---secondary.py
+inputModule13:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-function---secondary.py
+inputModule14:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-postmenopausal---secondary.py
+inputModule15:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-cystitis---secondary.py
+inputModule16:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-pyelonephritis---secondary.py
+inputModule17:
+  class: File
+  path: python/pelvic-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule18:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-dysmenorrhoea---secondary.py
+inputModule19:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-obstruction---secondary.py
+inputModule20:
+  class: File
+  path: python/nepthrotic-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule21:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-induced---secondary.py
+inputModule22:
+  class: File
+  path: python/uterovaginal-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule23:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-intestine---secondary.py
+inputModule24:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-infect---secondary.py
+inputModule25:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-benign---secondary.py
+inputModule26:
+  class: File
+  path: python/ureteral-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule27:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-organ---secondary.py
+inputModule28:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-uterus---secondary.py
+inputModule29:
+  class: File
+  path: python/endometrial-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule30:
+  class: File
+  path: python/mesangiocapillary-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule31:
+  class: File
+  path: python/peritoneal-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule32:
+  class: File
+  path: python/segmental-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule33:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-urethra---secondary.py
+inputModule34:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-necrosis---secondary.py
+inputModule35:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-vulvar---secondary.py
+inputModule36:
+  class: File
+  path: python/abnormal-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule37:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-ovary---secondary.py
+inputModule38:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-uterine---secondary.py
+inputModule39:
+  class: File
+  path: python/nephropathy-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule40:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-cellulitis---secondary.py
+inputModule41:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-specified---secondary.py
+inputModule42:
+  class: File
+  path: python/glomerular-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule43:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-breast---secondary.py
+inputModule44:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-penis---secondary.py
+inputModule45:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-hypertrophy---secondary.py
+inputModule46:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-ectropion---secondary.py
+inputModule47:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-scanty---secondary.py
+inputModule48:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-paraphimosis---secondary.py
+inputModule49:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-leukoplakia---secondary.py
+inputModule50:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-spermatocele---secondary.py
+inputModule51:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-ulceration---secondary.py
+inputModule52:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-endometriosis---secondary.py
+inputModule53:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-fistula---secondary.py
+inputModule54:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-fallop---secondary.py
+inputModule55:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-peritonitis---secondary.py
+inputModule56:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-origin---secondary.py
+inputModule57:
+  class: File
+  path: python/vulvovaginal-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule58:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-deposit---secondary.py
+inputModule59:
+  class: File
+  path: python/severe-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule60:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-aborter---secondary.py
+inputModule61:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-epididymoorchitis---secondary.py
+inputModule62:
+  class: File
+  path: python/moderate-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule63:
+  class: File
+  path: python/unknown-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule64:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-infertility---secondary.py
+inputModule65:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-parasit---secondary.py
+inputModule66:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-disord---secondary.py
+inputModule67:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-bladder---secondary.py
+inputModule68:
+  class: File
+  path: python/hereditary-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule69:
+  class: File
+  path: python/neopastic-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule70:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-nephritis---secondary.py
+inputModule71:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-failure---secondary.py
+inputModule72:
+  class: File
+  path: python/cervical-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule73:
+  class: File
+  path: python/tubulointerstitial-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule74:
+  class: File
+  path: python/endocapillary-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule75:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-corpus---secondary.py
+inputModule76:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-embryo---secondary.py
+inputModule77:
+  class: File
+  path: python/frequent-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule78:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-incontinence---secondary.py
+inputModule79:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-balanitis---secondary.py
+inputModule80:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-testi---secondary.py
+inputModule81:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-haematuria---secondary.py
+inputModule82:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-oophoritis---secondary.py
+inputModule83:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-oligomenorrhoea---secondary.py
+inputModule84:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-gland---secondary.py
+inputModule85:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-introd---secondary.py
+inputModule86:
+  class: File
+  path: python/ovarian-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule87:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-fertilization---secondary.py
+inputModule88:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-abscess---secondary.py
+inputModule89:
+  class: File
+  path: python/neuropathic-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule90:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-atrophy---secondary.py
+inputModule91:
+  class: File
+  path: python/system---secondary.py
+inputModule92:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-isolated---secondary.py
+inputModule93:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-diverticulum---secondary.py
+inputModule94:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-diabetes---secondary.py
+inputModule95:
+  class: File
+  path: python/death-by-diseases-of-the-genitourinary-system-natural-cause-changes---secondary.py
+inputModule96:
+  class: File
+  path: python/tuberculous-death-by-diseases-of-the-genitourinary-system-natural-cause---secondary.py
+inputModule97:
+  class: File
+  path: python/output-cases.py
